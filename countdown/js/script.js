@@ -1,4 +1,4 @@
-const deadlineDate = "25 May 2025";
+const deadlineDate = "25 May 2026";
 
 function deadline() {
   const deadlineEndsDate = new Date(deadlineDate);
